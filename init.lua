@@ -38,6 +38,12 @@ local containers = {
 	{"bottom", "default:furnace_active", "src"},
 	{"side", "default:furnace_active", "fuel"},
 
+	{"bottom", "autocrafter:autocrafter", "src"},
+	{"side", "autocrafter:autocrafter", "src"},
+
+	{"bottom", "chesttools:shared_chest", "main"},
+	{"side", "chesttools:shared_chest", "main"},
+
 	{"bottom", "default:chest_locked", "main"},
 	{"side", "default:chest_locked", "main"},
 }

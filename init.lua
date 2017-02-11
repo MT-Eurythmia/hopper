@@ -44,6 +44,7 @@ local containers = {
 	{"bottom", "default:furnace_active", "src"},
 	{"side", "default:furnace_active", "fuel"},
 
+	{"top", "autocrafter:autocrafter", "dst"},
 	{"bottom", "autocrafter:autocrafter", "src"},
 	{"side", "autocrafter:autocrafter", "src"},
 
